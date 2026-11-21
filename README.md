@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/Cervus121212/quiet-wolf-19/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/Cervus121212/quiet-wolf-19/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+
 # Friday 20 November 2026: 36 stories, 7 regions — Kyiv bridges hit, Cyclone Akvan landfall, Asia's AI sell-off
 
 A one-page newspaper front page summing up the world news of
